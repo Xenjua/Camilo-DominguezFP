@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\bin\Debug\net8.0\99.ParcialCondicionalesCamiloD.exe
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\bin\Debug\net8.0\99.ParcialCondicionalesCamiloD.deps.json
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\bin\Debug\net8.0\99.ParcialCondicionalesCamiloD.runtimeconfig.json
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\bin\Debug\net8.0\99.ParcialCondicionalesCamiloD.dll
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\bin\Debug\net8.0\99.ParcialCondicionalesCamiloD.pdb
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\obj\Debug\net8.0\99.ParcialCondicionalesCamiloD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\obj\Debug\net8.0\99.ParcialCondicionalesCamiloD.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\obj\Debug\net8.0\99.ParcialCondicionalesCamiloD.AssemblyInfo.cs
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\obj\Debug\net8.0\99.ParcialCondicionalesCamiloD.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\obj\Debug\net8.0\99.ParcialCondicionalesCamiloD.sourcelink.json
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\obj\Debug\net8.0\99.ParcialCondicionalesCamiloD.dll
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\obj\Debug\net8.0\refint\99.ParcialCondicionalesCamiloD.dll
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\obj\Debug\net8.0\99.ParcialCondicionalesCamiloD.pdb
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\obj\Debug\net8.0\99.ParcialCondicionalesCamiloD.genruntimeconfig.cache
+C:\Users\B09S112est\Documents\CAMILOFp\Camilo-DominguezFP\Camilo-DominguezFP\99.ParcialCondicionalesCamiloD\99.ParcialCondicionalesCamiloD\obj\Debug\net8.0\ref\99.ParcialCondicionalesCamiloD.dll
