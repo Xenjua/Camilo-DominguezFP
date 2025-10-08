@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\bin\Debug\net8.0\3.Parcial3..exe
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\bin\Debug\net8.0\3.Parcial3..deps.json
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\bin\Debug\net8.0\3.Parcial3..runtimeconfig.json
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\bin\Debug\net8.0\3.Parcial3..dll
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\bin\Debug\net8.0\3.Parcial3..pdb
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\obj\Debug\net8.0\3.Parcial3..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\obj\Debug\net8.0\3.Parcial3..AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\obj\Debug\net8.0\3.Parcial3..AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\obj\Debug\net8.0\3.Parcial3..csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\obj\Debug\net8.0\3.Parcial3..sourcelink.json
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\obj\Debug\net8.0\3.Parcial3..dll
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\obj\Debug\net8.0\refint\3.Parcial3..dll
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\obj\Debug\net8.0\3.Parcial3..pdb
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\obj\Debug\net8.0\3.Parcial3..genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\CamiloGIT\Camilo-DominguezFP\3.Parcial3\3.Parcial3\obj\Debug\net8.0\ref\3.Parcial3..dll
